@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Dhawal Sarode
 
-<!--
-**dhawalsarode/dhawalsarode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech (CSE) @ Amity University  
+💡 Passionate about AI/ML, Deep Learning, and Full-Stack Development  
+🔬 Currently working on Audio Steganography using GANs and MIDI files  
+🌐 Skilled in Python • Flask • React • TensorFlow • SQL • OpenCV
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+
+### 🔐 [Audio Steganography using LSTM-GAN](#)
+Secure message embedding using GAN + MIDI. Built with Python, Flask, TensorFlow, and React.
+
+### 🏡 [House Price Prediction](#)
+Predict housing prices using Linear Regression on real estate data.
+
+### 🧠 [Parkinson’s Disease Detection Model](#)
+Neural network classifier to detect Parkinson's disease using patient voice data.
+
+### 🖼️ [Art Gallery DBMS](#)
+Structured SQL database managing paintings, artists, customers, and exhibitions.
+
+### 🧑‍💻 [Face Recognition Attendance System](#)
+Automated system using OpenCV + dlib for real-time attendance tracking.
+
+### 🧪 [Image Classification (CNN on CIFAR-10)](#)
+Trained CNN to classify CIFAR-10 images into 10 categories. Achieved ~85% accuracy.
+
+---
+
+## 🛠️ Skills & Tools
+
+`Python` `Flask` `TensorFlow` `Keras` `OpenCV` `SQL`  
+`React` `Git` `Scikit-learn` `NumPy` `Pandas` `Jupyter` `Power BI`
+
+---
+
+## 📫 Let's Connect
+- ✉️ dhawalsarode.ai@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/dhawal-sarode)
