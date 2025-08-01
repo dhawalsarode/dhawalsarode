@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dhawal Sarode
 
-🎓 Final Year B.Tech (CSE) @ Amity University  
+🎓 B.Tech (CSE), Amity University — Class of 2021-2025 
 💡 Passionate about AI/ML, Deep Learning, and Full-Stack Development  
 🔬 Currently working on Audio Steganography using GANs and MIDI files  
 🌐 Skilled in Python • Flask • React • TensorFlow • SQL • OpenCV
