@@ -63,7 +63,7 @@ ML-based classification using voice dataset features.
 
 ---
 
-## 🏡 Bengaluru House Price Prediction (Advanced ML)
+## 🏡 House Price Prediction (Advanced ML)
 Feature engineering, multi-model comparison, Streamlit UI.
 👉 **Repo:** *(coming soon)*
 
